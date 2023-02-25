@@ -11,9 +11,10 @@ Intervienen los siguientes:
 Iniciar el proyecto
  - npm run dev
 
-
+## Vista Previa
 ![Vista Previa](https://i.ibb.co/hCs4B3d/procc01.png)
 
+## Generando Pass
 ![Generando contraseña](https://i.ibb.co/HqHfnF9/procc02.png)
 
 
